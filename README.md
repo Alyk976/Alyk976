@@ -2,7 +2,7 @@
 
 ### IT Infrastructure · Systems & Network Administration · Linux · Automation
 
-I'm an IT infrastructure professional based in **Mayotte, France**, currently working in a hospital IT environment while pursuing a **Bac+4 qualification in Systems & Network Administration**.
+I'm an IT infrastructure professional based in **Mayotte, France**, currently pursuing a **Bac+4 qualification in Systems & Network Administration**.
 
 I enjoy designing, operating and improving reliable infrastructure — from Linux and Windows systems to enterprise networks, virtualization and automation.
 
