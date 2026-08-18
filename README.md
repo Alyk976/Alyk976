@@ -41,7 +41,17 @@ My approach is simple:
 
 ## 🚀 Featured project
 
+<p align="center">
+  <a href="https://github.com/Alyk976/smart-update">
+    <img src="https://raw.githubusercontent.com/Alyk976/smart-update/master/docs/assets/smart-update-banner.svg" alt="Smart Update — Think first. Update safely." width="1000">
+  </a>
+</p>
+
 ### [Smart Update](https://github.com/Alyk976/smart-update)
+
+[![CI](https://github.com/Alyk976/smart-update/actions/workflows/ci.yml/badge.svg)](https://github.com/Alyk976/smart-update/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/Alyk976/smart-update?display_name=tag)](https://github.com/Alyk976/smart-update/releases/latest)
+[![License](https://img.shields.io/github/license/Alyk976/smart-update)](https://github.com/Alyk976/smart-update/blob/master/LICENSE)
 
 **Smart Update** is a deterministic, policy-driven update decision engine for Arch Linux.
 
