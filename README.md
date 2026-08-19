@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/mahadi-alykitra.jpg" alt="Mahadi ALYKITRA" width="200">
+</p>
+
 # Hi, I'm Mahadi ALYKITRA 👋
 
 ### IT Infrastructure · Systems & Network Administration · Linux · Automation
